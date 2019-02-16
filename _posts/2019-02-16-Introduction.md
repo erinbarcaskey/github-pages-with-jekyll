@@ -1,3 +1,8 @@
+---
+title: "Introduction to GitHub Pages"
+date: 2019-02-16
+---
+
 ##Introduction to GitHub Pages
 
 Getting started with GitHub Pages
